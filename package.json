@@ -4,7 +4,17 @@
   "private": true,
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.22.0",
+    "body-parser": "^1.17.2",
     "enzyme": "^2.7.1",
+    "eslint": "^4.1.1",
+    "eslint-plugin-flowtype": "^2.34.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.1.0",
+    "express": "^4.15.3",
+    "express-cors": "0.0.3",
+    "fetch-mock": "^5.12.1",
+    "nodemon": "^1.11.0",
     "react-addons-test-utils": "^15.4.2",
     "react-scripts": "0.9.5"
   },
